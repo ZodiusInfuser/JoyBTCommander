@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map JoyBTCommander
+#######################################
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+JoyBTCommander			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin					KEYWORD2
+checkReceive			KEYWORD2
+sendFields				KEYWORD2
+buttonState				KEYWORD2
+setButtonState			KEYWORD2
+setButtonAsMomentary	KEYWORD2
+joystickX				KEYWORD2
+joystickY				KEYWORD2
+setTimeoutCallback		KEYWORD2
+setButtonPressedCallback	KEYWORD2
+setButtonReleasedCallback	KEYWORD2
+setJoystickCallback		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
